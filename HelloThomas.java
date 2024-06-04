@@ -7,7 +7,7 @@ public class HelloThomas
 		System.out.println("Hello mLoDar");
 		System.out.println("Hallo");
 		
-		
+		System.out.println("Hallo Thomas");
 		
 	}
 }
