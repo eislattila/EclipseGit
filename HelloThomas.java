@@ -5,6 +5,7 @@ public class HelloThomas
 		System.out.println("Hello Thomas");
 		System.out.println("Hello Attila");
 		System.out.println("Hello mLoDar");
+		System.out.println("Hallo");
 		
 		
 		
